@@ -1,0 +1,6 @@
+# install and load packages
+install.packages("tidyverse") # for analysis
+library(tidyverse)
+install.packages("readr") # to import csv files
+library(readr)
+# load original .csv files that cover data from June 2023 to June 2024
